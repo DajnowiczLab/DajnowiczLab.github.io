@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.navigation-links {
+  text-align: center; 
+  padding: 10px 0;
+  
+  a {
+    color: #ffffff; /* Customize banner link color */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+}
+
+
