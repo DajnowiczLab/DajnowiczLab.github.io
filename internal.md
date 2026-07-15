@@ -5,7 +5,7 @@ title: Internal Resources
 
 **Onboarding:**
 1. Please send me your github username to be added to our group
-2. After joining, check out the onboarding steps [here]("https://github.com/DajnowiczLab")
+2. After joining, check out the onboarding steps [here]("https://github.com/DajnowiczLab/DajnowiczLabOnboarding")
 3. Share calendar to get add to groups meetings
 
 
