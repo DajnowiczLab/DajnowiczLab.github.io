@@ -21,7 +21,7 @@ Our laboratory operates at the intersection of computational chemistry, machine 
 ### **News:**
 
 **July 2026:**
-We are officially setting up this Fall 2026! Are you excited about computational chemistry, biophysics, and machine learning? Our lab is actively looking for curious and motivated students to join our growing team. You do not need prior research experience—just a passion for discovery and a willingness to learn. Come by my office or drop me an email at to chat about our upcoming projects!
+We are officially setting up this Fall 2026! Are you excited about computational chemistry, biophysics, and machine learning? Our lab is actively looking for curious and motivated students to join our growing team. You do not need prior research experience—just a passion for discovery and a willingness to learn. Come by my office or drop me an email to chat about our upcoming projects!
 {: style="text-align: justify"}
 
 ### **Contact:**
