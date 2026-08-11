@@ -12,8 +12,7 @@ title: Research Group
 <div style="clear: both;"></div>
 
 ### Graduate Students
-<!-- Your comment here 
-<img src="{{ 'assets/images/your_image' | relative_url }}" style="float: left; width: 30%; margin-right: 20px; margin-bottom: 10px;">
-* **Your Name** - (B.S. Chemistry Wayne State University)
-<u>Research areas:</u> Computational Biophysics, Machine-learned interatomic potentials (MLPs)
--->
+<img src="{{ 'assets/images/unnamed.jpg' | relative_url }}" style="float: left; width: 30%; margin-right: 20px; margin-bottom: 10px;">
+* **Eva Laffont** - (B.S. Chemical Engineering, Ecole Nationale Superieure de Chimie de Mulhouse)
+<u>Research areas:</u> Computational Biophysics
+
