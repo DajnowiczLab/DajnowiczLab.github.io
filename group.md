@@ -12,7 +12,17 @@ title: Research Group
 <div style="clear: both;"></div>
 
 ### Graduate Students
-<img src="{{ 'assets/images/headshot_Eva.jpg' | relative_url }}" style="float: left; width: 125px; height: 125px; object-fit: contain; margin-right: 20px; margin-bottom: 10px;">
-* **Eva Laffont** - (B.S. Chemical Engineering, Ecole Nationale Superieure de Chimie de Mulhouse) <br>
-<u>Research areas:</u> Computational Biophysics
+<div style="display: flex; flex-direction: column; gap: 25px; margin-top: 20px;">
+
+  <!-- Profile 1: Eva Laffont -->
+  <div style="display: flex; align-items: flex-start;">
+    <div style="width: 125px !important; height: 125px !important; min-width: 125px !important; max-width: 125px !important; min-height: 125px !important; max-height: 125px !important; background-image: url({{ 'assets/images/headshot_Eva.jpg' | relative_url }}) !important; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; margin-right: 20px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);"></div>
+    <div style="flex: 1;">
+      <span style="font-weight: bold; font-size: 1.1em; color: #2b2b2b;">Eva Laffont</span> — (B.S. Chemical Engineering, École Nationale Supérieure de Chimie de Mulhouse)
+      <br>
+      <span style="text-decoration: underline;">Research areas:</span> Computational Biophysics
+    </div>
+  </div>
+  <!-- Profile 2: Second Researcher -->
+</div>
 
