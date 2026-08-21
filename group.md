@@ -17,7 +17,7 @@ title: Research Group
   <!-- Profile 1: Eva Laffont -->
   <div style="display: flex; align-items: flex-start;">
     <div style="width: 125px !important; height: 125px !important; min-width: 125px !important; max-width: 125px !important; min-height: 125px !important; max-height: 125px !important; background-image: url({{ 'assets/images/headshot_Eva.jpg' | relative_url }}) !important; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; margin-right: 20px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);"></div>
-    <div style="flex: 1;">
+    <div style="flex: 1; text-align: justify;">
       <span style="font-weight: bold; font-size: 1.1em; color: #2b2b2b;">Eva Laffont</span> — (B.S. Chemical Engineering, École Nationale Supérieure de Chimie de Mulhouse)
       <br>
       <span style="text-decoration: underline;">Research areas:</span> Computational Biophysics
@@ -26,10 +26,10 @@ title: Research Group
   <!-- Profile 2: Madison Martin Erickson -->
   <div style="display: flex; align-items: flex-start;">
     <div style="width: 125px !important; height: 125px !important; min-width: 125px !important; max-width: 125px !important; min-height: 125px !important; max-height: 125px !important; background-image: url({{ 'assets/images/headshot_Madi.jpg' | relative_url }}) !important; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; margin-right: 20px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);"></div>
-    <div style="flex: 1;">
-      <span style="font-weight: bold; font-size: 1.1em; color: #2b2b2b;">Madison Martin Erickson</span> — (B.S. in Applied Mathematics and Chemistry from the University of Central Arkansas and her M.S. in Chemistry and Biochemistry from the University of California, Merced, where her academic training emphasized computational chemistry throughout both programs.) 
+    <div style="flex: 1; text-align: justify;">
+      <span style="font-weight: bold; font-size: 1.1em; color: #2b2b2b;">Madison Martin Erickson</span> — (B.S. Applied Mathematics and Chemistry, The University of Central Arkansas and M.S. Chemistry and Biochemistry, The University of California, Merced) 
       <br>
-      <span style="text-decoration: underline;">Research areas:</span> Computational Synthetic Organic: Her research sits at the intersection of synthetic and computational chemistry, where she applies DFT-based methods to understand and predict the reactivity of hypervalent iodine catalysis and photocatalytic alkene difunctionalization reactions. Madison is passionate about interdisciplinary research that leverages computational chemistry to advance both her own science and that of her colleagues.
+      <span style="text-decoration: underline;">Research areas:</span> Computational Synthetic Organic: Her research sits at the intersection of synthetic and computational chemistry, where she applies DFT-based methods to understand and predict the reactivity of hypervalent iodine catalysis and photocatalytic alkene difunctionalization reactions.
     </div>
   </div>
 </div>
