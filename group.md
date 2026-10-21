@@ -44,7 +44,7 @@ title: Research Group
     <div style="flex: 1; text-align: justify;">
       <span style="font-weight: bold; font-size: 1.1em; color: #2b2b2b;">Grace Cullivan</span> — (Chemistry major, Biology minor, The University of Toledo)
       <br>
-      <span style="text-decoration: underline;">Research areas:</span> Computational Chemistry: Her research focuses on benchmarking DFT levels of theory in collaboration with a synthetic methodology group, with an emphasis on hypervalent iodine catalysts. She is also interested in multiscale kinetic modeling.
+      <span style="text-decoration: underline;">Research areas:</span> Computational Chemistry: Her research focuses on benchmarking density functional theory (DFT) methods for modeling hypervalent iodine catalysts. She is also interested in multiscale kinetic modeling of catalytic reactions.
     </div>
   </div>
 </div>
